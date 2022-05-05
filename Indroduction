@@ -1,0 +1,13 @@
+With the development of computer network technology and e-commerce, customers have become accustomed to self-service banking thanks to its feature of supplying high-quality service 24 hours a day. These days it is very common for ATMs to provide customers with convenient banking services like banknote trading. However, instances of financial crime have been increasing in recent years. There have been a number of cases of criminals stealing users’ credit cards by illegal means from ATMs. Because of that in the modern financial world, the idea of carrying on a valid identity to the customer is becoming increasingly important. In traditional ATM systems, authentication is generally performed by using a credit card and password; however, the system has some weaknesses. Recent years have seen continuous improvements in the algorithm used to recognize fingerprints and faces. By combining with the original password authentication method, biometrics identification technology assists in verifying the client’s identities and achieving the purpose of improving safety through the use of ATM machines. Throughout this paper, we propose a face unlock and fingerprint-based ATM system. 
+Face unlock and fingerprint-based ATM is a desktop application where the face or fingerprint of the user is used as authentication.   Fingerprint and face(iris) contain distinctive features for each individual, so it is possible to identify a person by their fingerprint and face. Then it is safer and more secure to use face unlock and fingerprint-based ATMs rather than ATM cards.
+The author discusses the following in this paper:
+•	Business objectives
+•	Background
+•	Scope of the system (including WBS)
+•	Feasibility analysis
+•	User requirements analysis
+•	Graphical illustrations of the to be system design
+•	Necessary user interface that will meet the functional requirements
+•	Database design
+•	System architecture diagram
+•	Hardware & software specification
